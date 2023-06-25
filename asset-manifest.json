@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RealEstate/static/css/main.4ab347df.css",
+    "main.js": "/RealEstate/static/js/main.26cad349.js",
+    "static/media/bgbg.jpg": "/RealEstate/static/media/bgbg.8b0aa57ce1cc75ea7d24.jpg",
+    "static/media/apartments.jpg": "/RealEstate/static/media/apartments.753915fb01d4979a4fff.jpg",
+    "static/media/villa2.jpg": "/RealEstate/static/media/villa2.103c4d64763e44310de3.jpg",
+    "static/media/cardcoimbatore.jpg": "/RealEstate/static/media/cardcoimbatore.d8f9754a3b005669da75.jpg",
+    "static/media/cardbanglore.jpg": "/RealEstate/static/media/cardbanglore.b19829ad3e0bd2d6f27d.jpg",
+    "static/media/office.jpg": "/RealEstate/static/media/office.5172ea741a7e67bedbc1.jpg",
+    "static/media/cardchennai.jpg": "/RealEstate/static/media/cardchennai.0bc3cb61b1311653f835.jpg",
+    "static/media/villa.jpg": "/RealEstate/static/media/villa.b887078291bbfd77efcd.jpg",
+    "static/media/cardmumbai.jpg": "/RealEstate/static/media/cardmumbai.7ec22867b882579aee1d.jpg",
+    "static/media/office2.jpg": "/RealEstate/static/media/office2.92ddb3a9bbb304e2b283.jpg",
+    "index.html": "/RealEstate/index.html",
+    "main.4ab347df.css.map": "/RealEstate/static/css/main.4ab347df.css.map",
+    "main.26cad349.js.map": "/RealEstate/static/js/main.26cad349.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab347df.css",
+    "static/js/main.26cad349.js"
+  ]
+}
